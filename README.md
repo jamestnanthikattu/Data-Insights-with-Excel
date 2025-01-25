@@ -31,6 +31,7 @@ Data Aggregation: Combining datasets across multiple dimensions (age, state, yea
 Statistical Analysis: Normality testing, correlation analysis, and hypothesis testing.
 Visualization Planning: Line charts, bar charts, scatter plots, and histograms for effective data communication.
 Domain Knowledge: Public health insights, focusing on influenza mortality and resource planning.
+
 How to Use This Repository
 View Insights: Read the Influenza Death Report.pdf to understand the project's background and statistical findings.
 Explore Data: Open the Comparison of Influenza Death Rate by Age.xlsx to explore raw data, analyses, and observations.
