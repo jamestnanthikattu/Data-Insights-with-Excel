@@ -2,11 +2,6 @@
 This repository showcases a collection of data-driven insights and visualizations created using Microsoft Excel. It features various dashboards, charts, and analytical reports that demonstrate my ability to manipulate data, generate meaningful insights, and present findings through intuitive visualizations. Each project includes sample datasets, step-by-step processes, and screenshots of key charts, highlighting skills in data analysis, pivot tables, chart creation, and Excel functions. Ideal for professionals and businesses looking to leverage Excel for impactful decision-making.
 
 ## Repository Content
-- **Influenza Death Report.pdf**: A detailed interim report covering statistical hypotheses, insights, and recommendations.
-- **Comparison of Influenza Death Rate by Age.xlsx**: An Excel workbook with integrated data and analyses across various age groups.
-
-
-## Project Files
 
 - [Influenza Death Report](Influenza%20Death%20Report.pdf): A detailed interim report covering the influenza project, data sources, statistical hypotheses, and findings.
 - [Comparison of Influenza Death Rate by Age](Comparison%20of%20Influenza%20Death%20Rate%20by%20Age.xlsx): Excel file containing integrated data, statistical analysis, and correlations for influenza death rates across different age groups.
