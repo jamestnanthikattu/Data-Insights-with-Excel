@@ -44,7 +44,7 @@ A detailed interim report analyzing influenza mortality trends in the United Sta
 - **Visualization Planning**: Developing impactful visualizations (e.g., line charts, bar charts, scatter plots, histograms).
 - **Domain Knowledge**: Understanding public health insights, particularly influenza mortality trends and resource planning.
 
-### How to Use This Repositoryd
+### How to Use This Repository
 - View Insights: Read the Influenza Death Report.pdf to understand the project's background and statistical findings.
 - Explore Data: Open the Comparison of Influenza Death Rate by Age.xlsx to explore raw data, analyses, and observations.
 - Build Visualizations: Use the integrated data and analysis to create impactful visualizations (e.g., charts, dashboards).
