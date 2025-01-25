@@ -9,11 +9,11 @@ This repository showcases a collection of data-driven insights and visualization
 A detailed interim report analyzing influenza mortality trends in the United States, focusing on:
 
       - Age-based mortality trends.
-Statistical and correlation analysis between population size and flu deaths.
-Research hypothesis testing to highlight vulnerable age groups.
-Next steps include developing visualizations and refining findings for stakeholders.
-Comparison of Influenza Death Rate by Age.xlsx
-An Excel workbook featuring data aggregation and statistical analyses of influenza death rates across various age groups.
+      - Statistical and correlation analysis between population size and flu deaths.
+      - Research hypothesis testing to highlight vulnerable age groups.
+      - Next steps include developing visualizations and refining findings for stakeholders.
+      - Comparison of Influenza Death Rate by Age.xlsx
+      - An Excel workbook featuring data aggregation and statistical analyses of influenza death rates across various age groups.
 
 Excel File Details
 Tab 1: Final Integrated Data
