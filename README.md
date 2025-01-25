@@ -8,7 +8,7 @@ This repository showcases a collection of data-driven insights and visualization
 
 A detailed interim report analyzing influenza mortality trends in the United States, focusing on:
 
-Age-based mortality trends.
+-- **Age-based mortality trends**.
 Statistical and correlation analysis between population size and flu deaths.
 Research hypothesis testing to highlight vulnerable age groups.
 Next steps include developing visualizations and refining findings for stakeholders.
