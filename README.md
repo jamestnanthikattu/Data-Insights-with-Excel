@@ -4,6 +4,8 @@ This repository showcases a collection of data-driven insights and visualization
 ## Repository Content
 
 ### Files
+- [Influenza Death Report](Influenza%20Death%20Report.pdf): A detailed interim report covering the influenza project, data sources, statistical hypotheses, and findings.
+- [Comparison of Influenza Death Rate by Age](Comparison%20of%20Influenza%20Death%20Rate%20by%20Age.xlsx): Excel file containing integrated data, statistical analysis, and correlations for influenza death rates across different age groups.
 - **Influenza Death Report.pdf**:
 
 A detailed interim report analyzing influenza mortality trends in the United States, focusing on:
