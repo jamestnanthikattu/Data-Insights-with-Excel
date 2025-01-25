@@ -26,7 +26,7 @@ A detailed interim report analyzing influenza mortality trends in the United Sta
 
 - **Excel File Details - Comparison of Influenza Death Rate by Age.xlsx**:
 
-      - Tab 1: Final Integrated Data
+      - **Tab 1: Final Integrated Data**
             - Contains aggregated influenza mortality data by state and year.
             - Includes columns for various age groups (e.g., "Under 5 Years," "85 And Over").
             - Serves as the foundational dataset for trend analysis and statistical modeling.
@@ -44,11 +44,11 @@ A detailed interim report analyzing influenza mortality trends in the United Sta
 - **Visualization Planning**: Developing impactful visualizations (e.g., line charts, bar charts, scatter plots, histograms).
 - **Domain Knowledge**: Understanding public health insights, particularly influenza mortality trends and resource planning.
 
+### How to Use This Repositoryd
+- View Insights: Read the Influenza Death Report.pdf to understand the project's background and statistical findings.
+- Explore Data: Open the Comparison of Influenza Death Rate by Age.xlsx to explore raw data, analyses, and observations.
+- Build Visualizations: Use the integrated data and analysis to create impactful visualizations (e.g., charts, dashboards).
 
-- **How to Use This Repository**:
-      - View Insights: Read the Influenza Death Report.pdf to understand the project's background and statistical findings.
-      - Explore Data: Open the Comparison of Influenza Death Rate by Age.xlsx to explore raw data, analyses, and observations.
-      - Build Visualizations: Use the integrated data and analysis to create impactful visualizations (e.g., charts, dashboards).
 ### Use Cases
 - **Public Health**: Facilitates planning, resource allocation, and intervention strategies for influenza seasons.
 - **Data Analysis**: Showcases the use of Excel for addressing real-world challenges with a systematic approach.
