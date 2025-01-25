@@ -26,7 +26,7 @@ A detailed interim report analyzing influenza mortality trends in the United Sta
 
 - **Excel File Details - Comparison of Influenza Death Rate by Age.xlsx**:
 
-      - **Tab 1: Final Integrated Data**
+      - Tab 1: Final Integrated Data
             - Contains aggregated influenza mortality data by state and year.
             - Includes columns for various age groups (e.g., "Under 5 Years," "85 And Over").
             - Serves as the foundational dataset for trend analysis and statistical modeling.
